@@ -11,7 +11,7 @@
                     "GMP": "\u20b920",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b920 (%)",
-                    "Last Updated": "8-Nov-2023 19:31"
+                    "Last Updated": "8-Nov-2023 22:32"
                 }
             ],
             [
@@ -42,7 +42,11 @@
         "Sub2": "--",
         "Fire Rating": 0,
         "IPO Size": "\u20b9500.00 Cr",
-        "GMP Updated": "8-Nov 20:31"
+        "Open": "",
+        "Close": "",
+        "BoA Dt": "",
+        "Listing": "",
+        "GMP Updated": "8-Nov 23:32"
     },
     {
         "IPO": "Tata Technologies IPO",
@@ -56,7 +60,7 @@
                     "GMP": "\u20b9270",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b9270 (%)",
-                    "Last Updated": "8-Nov-2023 19:25"
+                    "Last Updated": "8-Nov-2023 22:26"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -263,7 +267,11 @@
         "Sub2": "--",
         "Fire Rating": 0,
         "IPO Size": "9.57 Cr Shares",
-        "GMP Updated": "8-Nov 20:25"
+        "Open": "",
+        "Close": "",
+        "BoA Dt": "",
+        "Listing": "",
+        "GMP Updated": "8-Nov 23:26"
     },
     {
         "IPO": "Kalyani Cast Tech BSE SME",
@@ -277,7 +285,7 @@
                     "GMP": "\u20b950",
                     "Sub2 Sauda Rate": "38000",
                     "Estimated Listing Price": "\u20b9189 (35.97%)",
-                    "Last Updated": "8-Nov-2023 19:30"
+                    "Last Updated": "8-Nov-2023 22:31"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -336,11 +344,11 @@
         "Close": "10-Nov",
         "BoA Dt": "16-Nov",
         "Listing": "21-Nov",
-        "GMP Updated": "8-Nov 20:30"
+        "GMP Updated": "8-Nov 23:31"
     },
     {
         "IPO": "ASK Automotive IPO",
-        "Status": "Open (Sub:1.35x)",
+        "Status": "Closing Today (Sub:1.35x)",
         "Link": "/gmp/ask-automotive-ipo-gmp/685/",
         "Data": [
             [
@@ -350,7 +358,7 @@
                     "GMP": "\u20b950",
                     "Sub2 Sauda Rate": "2000/28000",
                     "Estimated Listing Price": "\u20b9332 (17.73%)",
-                    "Last Updated": "8-Nov-2023 19:32"
+                    "Last Updated": "8-Nov-2023 22:24"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -447,11 +455,13 @@
         "IPO Size": "\u20b9834.00 Cr",
         "Open": "7-Nov",
         "Close": "9-Nov",
-        "GMP Updated": "8-Nov 20:32"
+        "BoA Dt": "",
+        "Listing": "",
+        "GMP Updated": "8-Nov 23:24"
     },
     {
         "IPO": "ROX Hi-Tech NSE SME",
-        "Status": "Open (Sub:56.59x)",
+        "Status": "Closing Today (Sub:56.59x)",
         "Link": "/gmp/rox-hi-tech-sme-ipo-gmp/686/",
         "Data": [
             [
@@ -461,7 +471,7 @@
                     "GMP": "\u20b990",
                     "Sub2 Sauda Rate": "109400",
                     "Estimated Listing Price": "\u20b9173 (108.43%)",
-                    "Last Updated": "8-Nov-2023 19:32"
+                    "Last Updated": "8-Nov-2023 22:26"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -552,11 +562,11 @@
         "Close": "9-Nov",
         "BoA Dt": "15-Nov",
         "Listing": "20-Nov",
-        "GMP Updated": "8-Nov 20:32"
+        "GMP Updated": "8-Nov 23:26"
     },
     {
         "IPO": "Sunrest Lifescience NSE SME",
-        "Status": "Open (Sub:11.28x)",
+        "Status": "Closing Today (Sub:11.28x)",
         "Link": "/gmp/sunrest-lifescience-sme-ipo-gmp/687/",
         "Data": [
             [
@@ -566,7 +576,7 @@
                     "GMP": "\u20b917",
                     "Sub2 Sauda Rate": "20700",
                     "Estimated Listing Price": "\u20b9101 (20.24%)",
-                    "Last Updated": "8-Nov-2023 19:32"
+                    "Last Updated": "8-Nov-2023 22:24"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -657,7 +667,7 @@
         "Close": "9-Nov",
         "BoA Dt": "15-Nov",
         "Listing": "20-Nov",
-        "GMP Updated": "8-Nov 20:32"
+        "GMP Updated": "8-Nov 23:24"
     },
     {
         "IPO": "Protean eGov Technologies IPO",
@@ -671,7 +681,7 @@
                     "GMP": "\u20b981",
                     "Sub2 Sauda Rate": "1100/16500",
                     "Estimated Listing Price": "\u20b9873 (10.23%)",
-                    "Last Updated": "8-Nov-2023 19:24"
+                    "Last Updated": "8-Nov-2023 22:24"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -914,7 +924,7 @@
         "Close": "8-Nov",
         "BoA Dt": "13-Nov",
         "Listing": "17-Nov",
-        "GMP Updated": "8-Nov 20:24"
+        "GMP Updated": "8-Nov 23:24"
     },
     {
         "IPO": "Baba Food Processing NSE SME",
@@ -928,7 +938,7 @@
                     "GMP": "\u20b916",
                     "Sub2 Sauda Rate": "19500",
                     "Estimated Listing Price": "\u20b992 (21.05%)",
-                    "Last Updated": "8-Nov-2023 19:26"
+                    "Last Updated": "8-Nov-2023 22:31"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -1059,7 +1069,7 @@
         "Close": "7-Nov",
         "BoA Dt": "10-Nov",
         "Listing": "16-Nov",
-        "GMP Updated": "8-Nov 20:26"
+        "GMP Updated": "8-Nov 23:31"
     },
     {
         "IPO": "ESAF Small Finance IPO",
@@ -1073,7 +1083,7 @@
                     "GMP": "\u20b921",
                     "Sub2 Sauda Rate": "4000/56000",
                     "Estimated Listing Price": "\u20b981 (35%)",
-                    "Last Updated": "8-Nov-2023 19:32"
+                    "Last Updated": "8-Nov-2023 22:29"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -1236,7 +1246,7 @@
         "Close": "7-Nov",
         "BoA Dt": "10-Nov",
         "Listing": "16-Nov",
-        "GMP Updated": "8-Nov 20:32"
+        "GMP Updated": "8-Nov 23:29"
     },
     {
         "IPO": "Micropro Software Solutions NSE SME",
@@ -1247,10 +1257,10 @@
                 {
                     "GMP Date": "08-11-2023",
                     "IPO Price": "81.00",
-                    "GMP": "\u20b95",
-                    "Sub2 Sauda Rate": "6100",
-                    "Estimated Listing Price": "\u20b986 (6.17%)",
-                    "Last Updated": "8-Nov-2023 19:25"
+                    "GMP": "\u20b94",
+                    "Sub2 Sauda Rate": "4900",
+                    "Estimated Listing Price": "\u20b985 (4.94%)",
+                    "Last Updated": "8-Nov-2023 22:32"
                 },
                 {
                     "GMP Date": "07-11-2023",
@@ -1380,16 +1390,16 @@
             ]
         ],
         "Price": "81",
-        "GMP(\u00e2\u0082\u00b9)": "5",
-        "Est Listing": "86 (6.17%)",
-        "Sub2": "6100",
-        "Fire Rating": 2,
+        "GMP(\u00e2\u0082\u00b9)": "4",
+        "Est Listing": "85 (4.94%)",
+        "Sub2": "4900",
+        "Fire Rating": 1,
         "IPO Size": "\u20b930.70 Cr",
         "Open": "3-Nov",
         "Close": "7-Nov",
         "BoA Dt": "10-Nov",
         "Listing": "16-Nov",
-        "GMP Updated": "8-Nov 20:25"
+        "GMP Updated": "8-Nov 23:32"
     },
     {
         "IPO": "SAR Televenture NSE SME",
