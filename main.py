@@ -51,7 +51,11 @@ def new_rt(table):
             if len(columns) == 2:
                 left_side = columns[0].get_text(strip=True)
                 right_side = columns[1].get_text(strip=True)
-                data_dict[left_side] = right_side
+                if right_side != '':
+                    data_dict[left_side] = right_side
+                else:
+                    data_dict[left_side] = 'NA'
+
     return data_dict
 
 
@@ -91,7 +95,7 @@ for row in table.find_all('tr')[1:]:
             if not cell_text:
                 inner_elements = cell.find_all(True)
                 if len(inner_elements) == 0:
-                    row_data[columns[index + 1]] = ""
+                    row_data[columns[index + 1]] = "NA"
 
                 for inner_element in inner_elements:
                     if inner_element.name == 'img':
@@ -102,13 +106,16 @@ for row in table.find_all('tr')[1:]:
                                 row_data[columns[index + 1]
                                          ] = int(numeric_values[0])
                     else:
-                        row_data[columns[index + 1]] = inner_element.get_text()
+                        row_data[columns[index + 1]] = "NA"
             else:
                 if cell_text.startswith("Rating "):
                     rating = cell_text.split("/")[0].split()[-1]
                     row_data[columns[index + 1]] = rating
                 else:
-                    row_data[columns[index + 1]] = cell_text
+                    if cell_text != '':
+                        row_data[columns[index + 1]] = cell_text
+                    else:
+                        row_data[columns[index + 1]] = 'NA'
 
         extracted_data.append(row_data)
 
