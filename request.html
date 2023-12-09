@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion Request</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            background-color: #eee;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input, textarea {
+            width: 100%;
+            border: 1px solid #ddd;
+            padding: 5px;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        .btn {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #0062cc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Account Deletion Request</h2>
+        <p>Please fill out this form to request the deletion of your account.</p>
+        <form id="delete-account-form">
+            <div class="form-group">
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="reason">Reason for Deletion:</label>
+                <textarea id="reason" name="reason" required></textarea>
+            </div>
+            <div class="form-group action">
+              <input type="checkbox" id="confirm-delete" required>
+                <label>I understand that this action is permanent and cannot be undone.</label>
+            </div>
+            <button type="submit" class="btn">Submit Request</button>
+        </form>
+    </div>
+    <script>
+        const form = document.getElementById('delete-account-form');
+
+        form.addEventListener('submit', (event) => {
+            event.preventDefault();
+
+            if (!confirm('Are you sure you want to delete your account? This action cannot be undone.')) {
+                return;
+            }
+
+            // Send the request to your server for account deletion
+            // You need to implement this logic based on your backend technology
+
+            alert('Your account deletion request has been submitted. We will process your request shortly.');
+            form.reset();
+        });
+    </script>
+</body>
+</html>
