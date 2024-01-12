@@ -6,12 +6,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "12-01-2024",
+                    "IPO Price": "140.00",
+                    "GMP": "\u20b9125",
+                    "Sub2 Sauda Rate": "95000",
+                    "Estimated Listing Price": "\u20b9265 (89.29%)",
+                    "Last Updated": "12-Jan-2024 11:31"
+                },
+                {
                     "GMP Date": "11-01-2024",
                     "IPO Price": "140.00",
                     "GMP": "\u20b9125",
                     "Sub2 Sauda Rate": "95000",
                     "Estimated Listing Price": "\u20b9265 (89.29%)",
-                    "Last Updated": "11-Jan-2024 22:56"
+                    "Last Updated": "11-Jan-2024 23:26"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -86,7 +94,7 @@
         "Close": "23-Jan",
         "BoA Dt": "24-Jan",
         "Listing": "29-Jan",
-        "GMP Updated": "11-Jan 22:56"
+        "GMP Updated": "12-Jan 11:31"
     },
     {
         "IPO": "Maxposure NSE SME",
@@ -95,12 +103,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "12-01-2024",
+                    "IPO Price": "33.00",
+                    "GMP": "\u20b936",
+                    "Sub2 Sauda Rate": "109400",
+                    "Estimated Listing Price": "\u20b969 (109.09%)",
+                    "Last Updated": "12-Jan-2024 11:26"
+                },
+                {
                     "GMP Date": "11-01-2024",
                     "IPO Price": "33.00",
                     "GMP": "\u20b936",
                     "Sub2 Sauda Rate": "109400",
                     "Estimated Listing Price": "\u20b969 (109.09%)",
-                    "Last Updated": "11-Jan-2024 23:02"
+                    "Last Updated": "11-Jan-2024 23:24"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -151,7 +167,7 @@
         "Close": "17-Jan",
         "BoA Dt": "18-Jan",
         "Listing": "22-Jan",
-        "GMP Updated": "11-Jan 23:02"
+        "GMP Updated": "12-Jan 11:26"
     },
     {
         "IPO": "Medi Assist Healthcare IPO",
@@ -160,12 +176,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "12-01-2024",
+                    "IPO Price": "418.00",
+                    "GMP": "\u20b964",
+                    "Sub2 Sauda Rate": "1700/23800",
+                    "Estimated Listing Price": "\u20b9482 (15.31%)",
+                    "Last Updated": "12-Jan-2024 11:23"
+                },
+                {
                     "GMP Date": "11-01-2024",
                     "IPO Price": "418.00",
                     "GMP": "\u20b964",
                     "Sub2 Sauda Rate": "1700/23800",
                     "Estimated Listing Price": "\u20b9482 (15.31%)",
-                    "Last Updated": "11-Jan-2024 22:53"
+                    "Last Updated": "11-Jan-2024 23:26"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -264,21 +288,29 @@
         "Close": "17-Jan",
         "BoA Dt": "18-Jan",
         "Listing": "22-Jan",
-        "GMP Updated": "11-Jan 22:53"
+        "GMP Updated": "12-Jan 11:23"
     },
     {
         "IPO": "Shree Marutinandan Tubes BSE SME",
-        "Status": "Upcoming",
+        "Status": "Open (Sub:1.02x)",
         "Link": "/gmp/shree-marutinandan-tubes-sme-ipo-gmp/740/",
         "Data": [
             [
+                {
+                    "GMP Date": "12-01-2024Open",
+                    "IPO Price": "143.00",
+                    "GMP": "\u20b932",
+                    "Sub2 Sauda Rate": "24300",
+                    "Estimated Listing Price": "\u20b9175 (22.38%)",
+                    "Last Updated": "12-Jan-2024 11:24"
+                },
                 {
                     "GMP Date": "11-01-2024",
                     "IPO Price": "143.00",
                     "GMP": "\u20b932",
                     "Sub2 Sauda Rate": "24300",
                     "Estimated Listing Price": "\u20b9175 (22.38%)",
-                    "Last Updated": "11-Jan-2024 23:01"
+                    "Last Updated": "11-Jan-2024 23:27"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -329,21 +361,29 @@
         "Close": "16-Jan",
         "BoA Dt": "17-Jan",
         "Listing": "19-Jan",
-        "GMP Updated": "11-Jan 23:01"
+        "GMP Updated": "12-Jan 11:24"
     },
     {
         "IPO": "New Swan Multitech BSE SME",
-        "Status": "Open (Sub:52.36x)",
+        "Status": "Open (Sub:33.72x)",
         "Link": "/gmp/new-swan-multitech-sme-ipo-gmp/733/",
         "Data": [
             [
+                {
+                    "GMP Date": "12-01-2024",
+                    "IPO Price": "66.00",
+                    "GMP": "\u20b939",
+                    "Sub2 Sauda Rate": "59300",
+                    "Estimated Listing Price": "\u20b9105 (59.09%)",
+                    "Last Updated": "12-Jan-2024 11:25"
+                },
                 {
                     "GMP Date": "11-01-2024Open",
                     "IPO Price": "66.00",
                     "GMP": "\u20b937",
                     "Sub2 Sauda Rate": "56200",
                     "Estimated Listing Price": "\u20b9103 (56.06%)",
-                    "Last Updated": "11-Jan-2024 22:54"
+                    "Last Updated": "11-Jan-2024 23:32"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -489,30 +529,38 @@
             ]
         ],
         "Price": "66",
-        "GMP(\u00e2\u0082\u00b9)": "37",
-        "Est Listing": "103 (56.06%)",
-        "Sub2": "56200",
+        "GMP(\u00e2\u0082\u00b9)": "39",
+        "Est Listing": "105 (59.09%)",
+        "Sub2": "59300",
         "Fire Rating": 5,
         "IPO Size": "\u20b933.11 Cr",
         "Open": "11-Jan",
         "Close": "15-Jan",
         "BoA Dt": "16-Jan",
         "Listing": "18-Jan",
-        "GMP Updated": "11-Jan 22:54"
+        "GMP Updated": "12-Jan 11:25"
     },
     {
         "IPO": "Australian Premium Solar NSE SME",
-        "Status": "Open (Sub:26.82x)",
+        "Status": "Open (Sub:38.37x)",
         "Link": "/gmp/australian-premium-solar-(india)-sme-ipo-gmp/738/",
         "Data": [
             [
+                {
+                    "GMP Date": "12-01-2024",
+                    "IPO Price": "54.00",
+                    "GMP": "\u20b935",
+                    "Sub2 Sauda Rate": "53200",
+                    "Estimated Listing Price": "\u20b989 (64.81%)",
+                    "Last Updated": "12-Jan-2024 11:24"
+                },
                 {
                     "GMP Date": "11-01-2024Open",
                     "IPO Price": "54.00",
                     "GMP": "\u20b930",
                     "Sub2 Sauda Rate": "45600",
                     "Estimated Listing Price": "\u20b984 (55.56%)",
-                    "Last Updated": "11-Jan-2024 23:01"
+                    "Last Updated": "11-Jan-2024 23:26"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -578,16 +626,16 @@
             ]
         ],
         "Price": "54",
-        "GMP(\u00e2\u0082\u00b9)": "30",
-        "Est Listing": "84 (55.56%)",
-        "Sub2": "45600",
+        "GMP(\u00e2\u0082\u00b9)": "35",
+        "Est Listing": "89 (64.81%)",
+        "Sub2": "53200",
         "Fire Rating": 5,
         "IPO Size": "\u20b928.08 Cr",
         "Open": "11-Jan",
         "Close": "15-Jan",
         "BoA Dt": "16-Jan",
         "Listing": "18-Jan",
-        "GMP Updated": "11-Jan 23:01"
+        "GMP Updated": "12-Jan 11:24"
     },
     {
         "IPO": "IBL Finance NSE SME",
@@ -596,12 +644,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "12-01-2024Allotment",
+                    "IPO Price": "51.00",
+                    "GMP": "\u20b90",
+                    "Sub2 Sauda Rate": "--",
+                    "Estimated Listing Price": "\u20b951 (0%)",
+                    "Last Updated": "12-Jan-2024 11:27"
+                },
+                {
                     "GMP Date": "11-01-2024Close",
                     "IPO Price": "51.00",
                     "GMP": "\u20b90",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b951 (0%)",
-                    "Last Updated": "11-Jan-2024 23:00"
+                    "Last Updated": "11-Jan-2024 23:31"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -700,7 +756,7 @@
         "Close": "11-Jan",
         "BoA Dt": "12-Jan",
         "Listing": "16-Jan",
-        "GMP Updated": "11-Jan 23:00"
+        "GMP Updated": "12-Jan 11:27"
     },
     {
         "IPO": "Jyoti CNC Automation IPO",
@@ -709,12 +765,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "12-01-2024Allotment",
+                    "IPO Price": "331.00",
+                    "GMP": "\u20b950",
+                    "Sub2 Sauda Rate": "1700/23800",
+                    "Estimated Listing Price": "\u20b9381 (15.11%)",
+                    "Last Updated": "12-Jan-2024 11:32"
+                },
+                {
                     "GMP Date": "11-01-2024Close",
                     "IPO Price": "331.00",
                     "GMP": "\u20b948",
                     "Sub2 Sauda Rate": "1600/22400",
                     "Estimated Listing Price": "\u20b9379 (14.5%)",
-                    "Last Updated": "11-Jan-2024 22:58"
+                    "Last Updated": "11-Jan-2024 23:29"
                 },
                 {
                     "GMP Date": "10-01-2024",
@@ -844,16 +908,16 @@
             ]
         ],
         "Price": "331",
-        "GMP(\u00e2\u0082\u00b9)": "48",
-        "Est Listing": "379 (14.50%)",
-        "Sub2": "1600/22400",
+        "GMP(\u00e2\u0082\u00b9)": "50",
+        "Est Listing": "381 (15.11%)",
+        "Sub2": "1700/23800",
         "Fire Rating": 3,
         "IPO Size": "\u20b91000.00 Cr",
         "Open": "9-Jan",
         "Close": "11-Jan",
         "BoA Dt": "12-Jan",
         "Listing": "16-Jan",
-        "GMP Updated": "11-Jan 22:58"
+        "GMP Updated": "12-Jan 11:32"
     },
     {
         "IPO": "Kaushalya Logistics NSE SME",
