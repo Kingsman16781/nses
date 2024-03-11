@@ -8,10 +8,10 @@
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "96.00",
-                    "GMP": "\u20b970",
-                    "Sub2 Sauda Rate": "63800",
-                    "Estimated Listing Price": "\u20b9166 (72.92%)",
-                    "Last Updated": "11-Mar-2024 14:25"
+                    "GMP": "\u20b980",
+                    "Sub2 Sauda Rate": "73000",
+                    "Estimated Listing Price": "\u20b9176 (83.33%)",
+                    "Last Updated": "11-Mar-2024 23:29"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -45,16 +45,16 @@
             ]
         ],
         "Price": "96",
-        "GMP(\u00e2\u0082\u00b9)": "70",
-        "Est Listing": "166 (72.92%)",
-        "Sub2": "63800",
+        "GMP(\u00e2\u0082\u00b9)": "80",
+        "Est Listing": "176 (83.33%)",
+        "Sub2": "73000",
         "Fire Rating": 5,
         "IPO Size": "\u20b922.44 Cr",
         "Open": "15-Mar",
         "Close": "19-Mar",
         "BoA Dt": "20-Mar",
         "Listing": "22-Mar",
-        "GMP Updated": "11-Mar 14:25"
+        "GMP Updated": "11-Mar 23:29"
     },
     {
         "IPO": "KP Green Engineering BSE SME",
@@ -65,10 +65,10 @@
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "144.00",
-                    "GMP": "\u20b9105",
-                    "Sub2 Sauda Rate": "79800",
-                    "Estimated Listing Price": "\u20b9249 (72.92%)",
-                    "Last Updated": "11-Mar-2024 14:33"
+                    "GMP": "\u20b983",
+                    "Sub2 Sauda Rate": "63100",
+                    "Estimated Listing Price": "\u20b9227 (57.64%)",
+                    "Last Updated": "11-Mar-2024 23:29"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -118,16 +118,16 @@
             ]
         ],
         "Price": "144",
-        "GMP(\u00e2\u0082\u00b9)": "105",
-        "Est Listing": "249 (72.92%)",
-        "Sub2": "79800",
+        "GMP(\u00e2\u0082\u00b9)": "83",
+        "Est Listing": "227 (57.64%)",
+        "Sub2": "63100",
         "Fire Rating": 5,
         "IPO Size": "\u20b9189.50 Cr",
         "Open": "15-Mar",
         "Close": "19-Mar",
         "BoA Dt": "20-Mar",
         "Listing": "22-Mar",
-        "GMP Updated": "11-Mar 14:33"
+        "GMP Updated": "11-Mar 23:29"
     },
     {
         "IPO": "Krystal Integrated Services IPO",
@@ -138,10 +138,10 @@
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "715.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9715 (0%)",
-                    "Last Updated": "11-Mar-2024 14:32"
+                    "GMP": "\u20b990",
+                    "Sub2 Sauda Rate": "1400/19600",
+                    "Estimated Listing Price": "\u20b9805 (12.59%)",
+                    "Last Updated": "11-Mar-2024 23:33"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -263,16 +263,16 @@
             ]
         ],
         "Price": "715",
-        "GMP(\u00e2\u0082\u00b9)": "--",
-        "Est Listing": "715 (0.00%)",
-        "Sub2": "--",
-        "Fire Rating": 1,
+        "GMP(\u00e2\u0082\u00b9)": "90",
+        "Est Listing": "805 (12.59%)",
+        "Sub2": "1400/19600",
+        "Fire Rating": 3,
         "IPO Size": "\u20b9300.13 Cr",
         "Open": "14-Mar",
         "Close": "18-Mar",
         "BoA Dt": "19-Mar",
         "Listing": "21-Mar",
-        "GMP Updated": "11-Mar 14:32"
+        "GMP Updated": "11-Mar 23:33"
     },
     {
         "IPO": "AVP Infracon NSE SME",
@@ -286,7 +286,7 @@
                     "GMP": "\u20b930",
                     "Sub2 Sauda Rate": "36500",
                     "Estimated Listing Price": "\u20b9105 (40%)",
-                    "Last Updated": "11-Mar-2024 14:26"
+                    "Last Updated": "11-Mar-2024 23:30"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -361,21 +361,21 @@
         "Close": "15-Mar",
         "BoA Dt": "18-Mar",
         "Listing": "20-Mar",
-        "GMP Updated": "11-Mar 14:26"
+        "GMP Updated": "11-Mar 23:30"
     },
     {
         "IPO": "Signoria Creation NSE SME",
-        "Status": "Upcoming",
+        "Status": "Open",
         "Link": "/gmp/signoria-creation-sme-ipo-gmp/795/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "65.00",
-                    "GMP": "\u20b9120",
-                    "Sub2 Sauda Rate": "182400",
-                    "Estimated Listing Price": "\u20b9185 (184.62%)",
-                    "Last Updated": "11-Mar-2024 14:32"
+                    "GMP": "\u20b9100",
+                    "Sub2 Sauda Rate": "152000",
+                    "Estimated Listing Price": "\u20b9165 (153.85%)",
+                    "Last Updated": "11-Mar-2024 23:33"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -457,20 +457,20 @@
             ]
         ],
         "Price": "65",
-        "GMP(\u00e2\u0082\u00b9)": "120",
-        "Est Listing": "185 (184.62%)",
-        "Sub2": "182400",
+        "GMP(\u00e2\u0082\u00b9)": "100",
+        "Est Listing": "165 (153.85%)",
+        "Sub2": "152000",
         "Fire Rating": 5,
         "IPO Size": "\u20b99.28 Cr",
         "Open": "12-Mar",
         "Close": "14-Mar",
         "BoA Dt": "15-Mar",
         "Listing": "19-Mar",
-        "GMP Updated": "11-Mar 14:32"
+        "GMP Updated": "11-Mar 23:33"
     },
     {
         "IPO": "Royal Sense BSE SME",
-        "Status": "Upcoming",
+        "Status": "Open",
         "Link": "/gmp/royal-sense-sme-ipo-gmp/798/",
         "Data": [
             [
@@ -480,7 +480,7 @@
                     "GMP": "\u20b90",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b968 (0%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "Last Updated": "11-Mar-2024 23:25"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -555,11 +555,11 @@
         "Close": "14-Mar",
         "BoA Dt": "15-Mar",
         "Listing": "19-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:25"
     },
     {
         "IPO": "Popular Vehicles & IPO",
-        "Status": "Upcoming",
+        "Status": "Open",
         "Link": "/gmp/popular-vehicles-&-services-ipo-gmp/796/",
         "Data": [
             [
@@ -569,7 +569,7 @@
                     "GMP": "\u20b927",
                     "Sub2 Sauda Rate": "1000/14000",
                     "Estimated Listing Price": "\u20b9322 (9.15%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "Last Updated": "11-Mar-2024 23:25"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -660,21 +660,21 @@
         "Close": "14-Mar",
         "BoA Dt": "15-Mar",
         "Listing": "19-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:25"
     },
     {
         "IPO": "Pratham EPC Projects NSE SME",
-        "Status": "Open (Sub:4.96x)",
+        "Status": "Open (Sub:13.14x)",
         "Link": "/gmp/pratham-epc-projects-sme-ipo-gmp/794/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024Open",
                     "IPO Price": "75.00",
-                    "GMP": "\u20b996",
-                    "Sub2 Sauda Rate": "116700",
-                    "Estimated Listing Price": "\u20b9171 (128%)",
-                    "Last Updated": "11-Mar-2024 14:30"
+                    "GMP": "\u20b985",
+                    "Sub2 Sauda Rate": "103400",
+                    "Estimated Listing Price": "\u20b9160 (113.33%)",
+                    "Last Updated": "11-Mar-2024 23:29"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -772,30 +772,30 @@
             ]
         ],
         "Price": "75",
-        "GMP(\u00e2\u0082\u00b9)": "96",
-        "Est Listing": "171 (128.00%)",
-        "Sub2": "116700",
+        "GMP(\u00e2\u0082\u00b9)": "85",
+        "Est Listing": "160 (113.33%)",
+        "Sub2": "103400",
         "Fire Rating": 5,
         "IPO Size": "\u20b936.00 Cr",
         "Open": "11-Mar",
         "Close": "13-Mar",
         "BoA Dt": "14-Mar",
         "Listing": "18-Mar",
-        "GMP Updated": "11-Mar 14:30"
+        "GMP Updated": "11-Mar 23:29"
     },
     {
         "IPO": "Pune E-Stock Broking BSE SME",
-        "Status": "Open (Sub:36.22x)",
+        "Status": "Closing Today (Sub:65.8x)",
         "Link": "/gmp/pune-e-stock-broking-sme-ipo-gmp/786/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "83.00",
-                    "GMP": "\u20b9100",
-                    "Sub2 Sauda Rate": "121600",
-                    "Estimated Listing Price": "\u20b9183 (120.48%)",
-                    "Last Updated": "11-Mar-2024 14:30"
+                    "GMP": "\u20b995",
+                    "Sub2 Sauda Rate": "115500",
+                    "Estimated Listing Price": "\u20b9178 (114.46%)",
+                    "Last Updated": "11-Mar-2024 23:28"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -925,30 +925,30 @@
             ]
         ],
         "Price": "83",
-        "GMP(\u00e2\u0082\u00b9)": "100",
-        "Est Listing": "183 (120.48%)",
-        "Sub2": "121600",
+        "GMP(\u00e2\u0082\u00b9)": "95",
+        "Est Listing": "178 (114.46%)",
+        "Sub2": "115500",
         "Fire Rating": 5,
         "IPO Size": "\u20b938.23 Cr",
         "Open": "7-Mar",
         "Close": "12-Mar",
         "BoA Dt": "13-Mar",
         "Listing": "15-Mar",
-        "GMP Updated": "11-Mar 14:30"
+        "GMP Updated": "11-Mar 23:28"
     },
     {
         "IPO": "Shree Karni Fabcom NSE SME",
-        "Status": "Closing Today (Sub:140.71x)",
+        "Status": "Close (Sub:296.43x)",
         "Link": "/gmp/shree-karni-fabcom-sme-ipo-gmp/792/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024Close",
                     "IPO Price": "227.00",
-                    "GMP": "\u20b9255",
-                    "Sub2 Sauda Rate": "116300",
-                    "Estimated Listing Price": "\u20b9482 (112.33%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "GMP": "\u20b9221",
+                    "Sub2 Sauda Rate": "100800",
+                    "Estimated Listing Price": "\u20b9448 (97.36%)",
+                    "Last Updated": "11-Mar-2024 23:30"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -1070,30 +1070,30 @@
             ]
         ],
         "Price": "227",
-        "GMP(\u00e2\u0082\u00b9)": "255",
-        "Est Listing": "482 (112.33%)",
-        "Sub2": "116300",
+        "GMP(\u00e2\u0082\u00b9)": "221",
+        "Est Listing": "448 (97.36%)",
+        "Sub2": "100800",
         "Fire Rating": 5,
         "IPO Size": "\u20b942.49 Cr",
         "Open": "6-Mar",
         "Close": "11-Mar",
         "BoA Dt": "12-Mar",
         "Listing": "14-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:30"
     },
     {
         "IPO": "Gopal Snacks IPO",
-        "Status": "Closing Today (Sub:3.21x)",
+        "Status": "Close (Sub:9.5x)",
         "Link": "/gmp/gopal-snacks-ipo-gmp/791/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024Close",
                     "IPO Price": "401.00",
-                    "GMP": "\u20b910",
-                    "Sub2 Sauda Rate": "300/4200",
-                    "Estimated Listing Price": "\u20b9411 (2.49%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "GMP": "\u20b98",
+                    "Sub2 Sauda Rate": "200/2800",
+                    "Estimated Listing Price": "\u20b9409 (2%)",
+                    "Last Updated": "11-Mar-2024 23:26"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -1215,30 +1215,30 @@
             ]
         ],
         "Price": "401",
-        "GMP(\u00e2\u0082\u00b9)": "10",
-        "Est Listing": "411 (2.49%)",
-        "Sub2": "300/4200",
+        "GMP(\u00e2\u0082\u00b9)": "8",
+        "Est Listing": "409 (2.00%)",
+        "Sub2": "200/2800",
         "Fire Rating": 1,
         "IPO Size": "\u20b9650.00 Cr",
         "Open": "6-Mar",
         "Close": "11-Mar",
         "BoA Dt": "12-Mar",
         "Listing": "14-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:26"
     },
     {
         "IPO": "Koura Fine Diamond BSE SME",
-        "Status": "Closing Today (Sub:416.52x)",
+        "Status": "Close (Sub:733.01x)",
         "Link": "/gmp/koura-fine-diamond-jewelry-sme-ipo-gmp/793/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024Close",
                     "IPO Price": "55.00",
-                    "GMP": "\u20b971",
-                    "Sub2 Sauda Rate": "107900",
-                    "Estimated Listing Price": "\u20b9126 (129.09%)",
-                    "Last Updated": "11-Mar-2024 14:24"
+                    "GMP": "\u20b965",
+                    "Sub2 Sauda Rate": "98800",
+                    "Estimated Listing Price": "\u20b9120 (118.18%)",
+                    "Last Updated": "11-Mar-2024 23:26"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -1336,16 +1336,16 @@
             ]
         ],
         "Price": "55",
-        "GMP(\u00e2\u0082\u00b9)": "71",
-        "Est Listing": "126 (129.09%)",
-        "Sub2": "107900",
+        "GMP(\u00e2\u0082\u00b9)": "65",
+        "Est Listing": "120 (118.18%)",
+        "Sub2": "98800",
         "Fire Rating": 5,
         "IPO Size": "\u20b95.50 Cr",
         "Open": "6-Mar",
         "Close": "11-Mar",
         "BoA Dt": "12-Mar",
         "Listing": "14-Mar",
-        "GMP Updated": "11-Mar 14:24"
+        "GMP Updated": "11-Mar 23:26"
     },
     {
         "IPO": "Sona Machinery NSE SME",
@@ -1356,10 +1356,10 @@
                 {
                     "GMP Date": "11-03-2024Allotment",
                     "IPO Price": "143.00",
-                    "GMP": "\u20b9100",
-                    "Sub2 Sauda Rate": "76000",
-                    "Estimated Listing Price": "\u20b9243 (69.93%)",
-                    "Last Updated": "11-Mar-2024 14:33"
+                    "GMP": "\u20b980",
+                    "Sub2 Sauda Rate": "60800",
+                    "Estimated Listing Price": "\u20b9223 (55.94%)",
+                    "Last Updated": "11-Mar-2024 23:33"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -1481,16 +1481,16 @@
             ]
         ],
         "Price": "143",
-        "GMP(\u00e2\u0082\u00b9)": "100",
-        "Est Listing": "243 (69.93%)",
-        "Sub2": "76000",
+        "GMP(\u00e2\u0082\u00b9)": "80",
+        "Est Listing": "223 (55.94%)",
+        "Sub2": "60800",
         "Fire Rating": 5,
         "IPO Size": "\u20b951.82 Cr",
         "Open": "5-Mar",
         "Close": "7-Mar",
         "BoA Dt": "11-Mar",
         "Listing": "13-Mar",
-        "GMP Updated": "11-Mar 14:33"
+        "GMP Updated": "11-Mar 23:33"
     },
     {
         "IPO": "JG Chemicals IPO",
@@ -1504,7 +1504,7 @@
                     "GMP": "\u20b932",
                     "Sub2 Sauda Rate": "1600/22400",
                     "Estimated Listing Price": "\u20b9253 (14.48%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "Last Updated": "11-Mar-2024 23:30"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -1635,11 +1635,11 @@
         "Close": "7-Mar",
         "BoA Dt": "11-Mar",
         "Listing": "13-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:30"
     },
     {
         "IPO": "R K SWAMY IPO",
-        "Status": "Close (Sub:25.78x)",
+        "Status": "Listing Today",
         "Link": "/gmp/r-k-swamy-ipo-gmp/743/",
         "Data": [
             [
@@ -1649,7 +1649,7 @@
                     "GMP": "\u20b90",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b9288 (0%)",
-                    "Last Updated": "11-Mar-2024 14:28"
+                    "Last Updated": "11-Mar-2024 23:32"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -2212,21 +2212,21 @@
         "Close": "6-Mar",
         "BoA Dt": "7-Mar",
         "Listing": "12-Mar",
-        "GMP Updated": "11-Mar 14:28"
+        "GMP Updated": "11-Mar 23:32"
     },
     {
         "IPO": "V R Infraspace NSE SME",
-        "Status": "Close (Sub:93.41x)",
+        "Status": "Listing Today",
         "Link": "/gmp/v-r-infraspace-sme-ipo-gmp/790/",
         "Data": [
             [
                 {
                     "GMP Date": "11-03-2024",
                     "IPO Price": "85.00",
-                    "GMP": "\u20b915",
-                    "Sub2 Sauda Rate": "18200",
-                    "Estimated Listing Price": "\u20b9100 (17.65%)",
-                    "Last Updated": "11-Mar-2024 14:28"
+                    "GMP": "\u20b96",
+                    "Sub2 Sauda Rate": "7300",
+                    "Estimated Listing Price": "\u20b991 (7.06%)",
+                    "Last Updated": "11-Mar-2024 23:30"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -2348,20 +2348,20 @@
             ]
         ],
         "Price": "85",
-        "GMP(\u00e2\u0082\u00b9)": "15",
-        "Est Listing": "100 (17.65%)",
-        "Sub2": "18200",
-        "Fire Rating": 3,
+        "GMP(\u00e2\u0082\u00b9)": "6",
+        "Est Listing": "91 (7.06%)",
+        "Sub2": "7300",
+        "Fire Rating": 2,
         "IPO Size": "\u20b920.40 Cr",
         "Open": "4-Mar",
         "Close": "6-Mar",
         "BoA Dt": "7-Mar",
         "Listing": "12-Mar",
-        "GMP Updated": "11-Mar 14:28"
+        "GMP Updated": "11-Mar 23:30"
     },
     {
         "IPO": "Bharat Highways InvIT IPO",
-        "Status": "Close (Sub:6.74x)",
+        "Status": "Listing Today",
         "Link": "/gmp/bharat-highways-invit-ipo-gmp/784/",
         "Data": [
             [
@@ -2371,7 +2371,7 @@
                     "GMP": "\u20b92",
                     "Sub2 Sauda Rate": "200/2800",
                     "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "11-Mar-2024 14:29"
+                    "Last Updated": "11-Mar-2024 23:26"
                 },
                 {
                     "GMP Date": "10-03-2024",
@@ -2558,7 +2558,7 @@
         "Close": "1-Mar",
         "BoA Dt": "6-Mar",
         "Listing": "12-Mar",
-        "GMP Updated": "11-Mar 14:29"
+        "GMP Updated": "11-Mar 23:26"
     },
     {
         "IPO": "Mukka Proteins IPO",
