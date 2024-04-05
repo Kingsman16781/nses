@@ -1,17 +1,91 @@
 [
     {
+        "IPO": "Ramdevbaba Solvent NSE SME",
+        "Status": "Upcoming",
+        "Link": "/gmp/ramdevbaba-solvent-sme-ipo-gmp/823/",
+        "Data": [
+            [
+                {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "85.00",
+                    "GMP": "\u20b90",
+                    "Sub2 Sauda Rate": "--",
+                    "Estimated Listing Price": "\u20b985 (0%)",
+                    "Last Updated": "5-Apr-2024 11:54"
+                },
+                {
+                    "GMP Date": "04-04-2024",
+                    "IPO Price": "",
+                    "GMP": "\u20b90",
+                    "Sub2 Sauda Rate": "--",
+                    "Estimated Listing Price": "\u20b9 (0%)",
+                    "Last Updated": "4-Apr-2024 7:03"
+                },
+                {
+                    "GMP Date": "03-04-2024",
+                    "IPO Price": "",
+                    "GMP": "\u20b90",
+                    "Sub2 Sauda Rate": "--",
+                    "Estimated Listing Price": "\u20b9 (0%)",
+                    "Last Updated": "3-Apr-2024 17:33"
+                }
+            ],
+            [
+                {
+                    "SME IPO Open Date": "15-04-2024",
+                    "SME IPO Close Date": "18-04-2024",
+                    "Basis of AllotmentFinalisation Date*": "19-04-2024",
+                    "Refunds Initiation*": "22-04-2024",
+                    "Credit of Sharesto Demat Account*": "22-04-2024",
+                    "SME IPO Listing Date*": "23-04-2024"
+                }
+            ],
+            [
+                {
+                    "period": [],
+                    "Total Assets": [],
+                    "Total Revenue": [],
+                    "PAT": [],
+                    "Net worth": [],
+                    "Reserve & Surplus": [],
+                    "Total Borrowings": []
+                }
+            ]
+        ],
+        "Price": "85",
+        "GMP(\u00e2\u0082\u00b9)": "--",
+        "Est Listing": "85 (0.00%)",
+        "Fire Rating": 1,
+        "IPO Size": "\u20b950.27 Cr",
+        "Lot": "1600",
+        "Open": "15-Apr",
+        "Close": "18-Apr",
+        "BoA Dt": "19-Apr",
+        "Listing": "23-Apr",
+        "GMP Updated": "5-Apr 10:54",
+        "Sub2": ""
+    },
+    {
         "IPO": "Teerth Gopicon NSE SME",
         "Status": "Upcoming",
         "Link": "/gmp/teerth-gopicon-sme-ipo-gmp/822/",
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "111.00",
+                    "GMP": "\u20b912",
+                    "Sub2 Sauda Rate": "10900",
+                    "Estimated Listing Price": "\u20b9123 (10.81%)",
+                    "Last Updated": "5-Apr-2024 11:56"
+                },
+                {
                     "GMP Date": "04-04-2024",
                     "IPO Price": "111.00",
                     "GMP": "\u20b912",
                     "Sub2 Sauda Rate": "10900",
                     "Estimated Listing Price": "\u20b9123 (10.81%)",
-                    "Last Updated": "4-Apr-2024 18:28"
+                    "Last Updated": "5-Apr-2024 0:32"
                 },
                 {
                     "GMP Date": "03-04-2024",
@@ -33,7 +107,7 @@
             [
                 {
                     "SME IPO Open Date": "08-04-2024",
-                    "SME IPO Close Date": "11-04-2024",
+                    "SME IPO Close Date": "10-04-2024",
                     "Basis of AllotmentFinalisation Date*": "12-04-2024",
                     "Refunds Initiation*": "15-04-2024",
                     "Credit of Sharesto Demat Account*": "15-04-2024",
@@ -59,10 +133,10 @@
         "IPO Size": "\u20b944.40 Cr",
         "Lot": "1200",
         "Open": "8-Apr",
-        "Close": "11-Apr",
+        "Close": "10-Apr",
         "BoA Dt": "12-Apr",
         "Listing": "16-Apr",
-        "GMP Updated": "4-Apr 17:28",
+        "GMP Updated": "5-Apr 10:56",
         "Sub2": ""
     },
     {
@@ -72,12 +146,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "100.00",
+                    "GMP": "\u20b914",
+                    "Sub2 Sauda Rate": "12800",
+                    "Estimated Listing Price": "\u20b9114 (14%)",
+                    "Last Updated": "5-Apr-2024 11:58"
+                },
+                {
                     "GMP Date": "04-04-2024",
                     "IPO Price": "100.00",
                     "GMP": "\u20b910",
                     "Sub2 Sauda Rate": "9100",
                     "Estimated Listing Price": "\u20b9110 (10%)",
-                    "Last Updated": "4-Apr-2024 18:25"
+                    "Last Updated": "5-Apr-2024 0:29"
                 },
                 {
                     "GMP Date": "03-04-2024",
@@ -119,8 +201,8 @@
             ]
         ],
         "Price": "100",
-        "GMP(\u00e2\u0082\u00b9)": "10",
-        "Est Listing": "110 (10.00%)",
+        "GMP(\u00e2\u0082\u00b9)": "14",
+        "Est Listing": "114 (14.00%)",
         "Fire Rating": 3,
         "IPO Size": "\u20b949.99 Cr",
         "Lot": "1200",
@@ -128,22 +210,30 @@
         "Close": "10-Apr",
         "BoA Dt": "12-Apr",
         "Listing": "16-Apr",
-        "GMP Updated": "4-Apr 17:25",
+        "GMP Updated": "5-Apr 10:58",
         "Sub2": ""
     },
     {
         "IPO": "Bharti Hexacom IPO",
-        "Status": "Open (Sub:1.12x)",
+        "Status": "Closing Today (Sub:1.52x)",
         "Link": "/gmp/bharti-hexacom-ipo-gmp/820/",
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024Close",
+                    "IPO Price": "570.00",
+                    "GMP": "\u20b955",
+                    "Sub2 Sauda Rate": "1100/15400",
+                    "Estimated Listing Price": "\u20b9625 (9.65%)",
+                    "Last Updated": "5-Apr-2024 12:00"
+                },
+                {
                     "GMP Date": "04-04-2024",
                     "IPO Price": "570.00",
-                    "GMP": "\u20b959",
-                    "Sub2 Sauda Rate": "1200/16800",
-                    "Estimated Listing Price": "\u20b9629 (10.35%)",
-                    "Last Updated": "4-Apr-2024 18:32"
+                    "GMP": "\u20b957",
+                    "Sub2 Sauda Rate": "1100/15400",
+                    "Estimated Listing Price": "\u20b9627 (10%)",
+                    "Last Updated": "5-Apr-2024 0:24"
                 },
                 {
                     "GMP Date": "03-04-2024Open",
@@ -265,31 +355,39 @@
             ]
         ],
         "Price": "570",
-        "GMP(\u00e2\u0082\u00b9)": "59",
-        "Est Listing": "629 (10.35%)",
-        "Fire Rating": 3,
+        "GMP(\u00e2\u0082\u00b9)": "55",
+        "Est Listing": "625 (9.65%)",
+        "Fire Rating": 2,
         "IPO Size": "\u20b94275.00 Cr",
         "Lot": "26",
         "Open": "3-Apr",
         "Close": "5-Apr",
         "BoA Dt": "8-Apr",
         "Listing": "12-Apr",
-        "GMP Updated": "4-Apr 17:32",
+        "GMP Updated": "5-Apr 11:00",
         "Sub2": ""
     },
     {
         "IPO": "Aluwind Architectural NSE SME",
-        "Status": "Close (Sub:7.9x)",
+        "Status": "Close (Sub:8.19x)",
         "Link": "/gmp/aluwind-architectural-sme-ipo-gmp/817/",
         "Data": [
             [
+                {
+                    "GMP Date": "05-04-2024Allotment",
+                    "IPO Price": "45.00",
+                    "GMP": "\u20b92",
+                    "Sub2 Sauda Rate": "4600",
+                    "Estimated Listing Price": "\u20b947 (4.44%)",
+                    "Last Updated": "5-Apr-2024 11:57"
+                },
                 {
                     "GMP Date": "04-04-2024Close",
                     "IPO Price": "45.00",
                     "GMP": "\u20b90",
                     "Sub2 Sauda Rate": "--",
                     "Estimated Listing Price": "\u20b945 (0%)",
-                    "Last Updated": "4-Apr-2024 18:28"
+                    "Last Updated": "5-Apr-2024 0:23"
                 },
                 {
                     "GMP Date": "03-04-2024",
@@ -427,8 +525,8 @@
             ]
         ],
         "Price": "45",
-        "GMP(\u00e2\u0082\u00b9)": "--",
-        "Est Listing": "45 (0.00%)",
+        "GMP(\u00e2\u0082\u00b9)": "2",
+        "Est Listing": "47 (4.44%)",
         "Fire Rating": 1,
         "IPO Size": "\u20b929.70 Cr",
         "Lot": "3000",
@@ -436,7 +534,7 @@
         "Close": "4-Apr",
         "BoA Dt": "5-Apr",
         "Listing": "9-Apr",
-        "GMP Updated": "4-Apr 17:28",
+        "GMP Updated": "5-Apr 10:57",
         "Sub2": ""
     },
     {
@@ -446,12 +544,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024Allotment",
+                    "IPO Price": "85.00",
+                    "GMP": "\u20b930",
+                    "Sub2 Sauda Rate": "36500",
+                    "Estimated Listing Price": "\u20b9115 (35.29%)",
+                    "Last Updated": "5-Apr-2024 11:57"
+                },
+                {
                     "GMP Date": "04-04-2024Close",
                     "IPO Price": "85.00",
                     "GMP": "\u20b930",
                     "Sub2 Sauda Rate": "36500",
                     "Estimated Listing Price": "\u20b9115 (35.29%)",
-                    "Last Updated": "4-Apr-2024 18:24"
+                    "Last Updated": "5-Apr-2024 0:30"
                 },
                 {
                     "GMP Date": "03-04-2024",
@@ -590,7 +696,7 @@
         "Close": "4-Apr",
         "BoA Dt": "5-Apr",
         "Listing": "9-Apr",
-        "GMP Updated": "4-Apr 17:24",
+        "GMP Updated": "5-Apr 10:57",
         "Sub2": ""
     },
     {
@@ -600,12 +706,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "119.00",
+                    "GMP": "\u20b940",
+                    "Sub2 Sauda Rate": "36500",
+                    "Estimated Listing Price": "\u20b9159 (33.61%)",
+                    "Last Updated": "5-Apr-2024 11:54"
+                },
+                {
                     "GMP Date": "04-04-2024Allotment",
                     "IPO Price": "119.00",
                     "GMP": "\u20b940",
                     "Sub2 Sauda Rate": "36500",
                     "Estimated Listing Price": "\u20b9159 (33.61%)",
-                    "Last Updated": "4-Apr-2024 18:32"
+                    "Last Updated": "5-Apr-2024 0:24"
                 },
                 {
                     "GMP Date": "03-04-2024Close",
@@ -744,7 +858,7 @@
         "Close": "3-Apr",
         "BoA Dt": "4-Apr",
         "Listing": "8-Apr",
-        "GMP Updated": "4-Apr 17:32",
+        "GMP Updated": "5-Apr 10:54",
         "Sub2": ""
     },
     {
@@ -754,12 +868,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "73.00",
+                    "GMP": "\u20b916",
+                    "Sub2 Sauda Rate": "19500",
+                    "Estimated Listing Price": "\u20b989 (21.92%)",
+                    "Last Updated": "5-Apr-2024 11:56"
+                },
+                {
                     "GMP Date": "04-04-2024Allotment",
                     "IPO Price": "73.00",
                     "GMP": "\u20b915",
                     "Sub2 Sauda Rate": "18200",
                     "Estimated Listing Price": "\u20b988 (20.55%)",
-                    "Last Updated": "4-Apr-2024 18:28"
+                    "Last Updated": "5-Apr-2024 0:23"
                 },
                 {
                     "GMP Date": "03-04-2024Close",
@@ -897,8 +1019,8 @@
             ]
         ],
         "Price": "73",
-        "GMP(\u00e2\u0082\u00b9)": "15",
-        "Est Listing": "88 (20.55%)",
+        "GMP(\u00e2\u0082\u00b9)": "16",
+        "Est Listing": "89 (21.92%)",
         "Fire Rating": 4,
         "IPO Size": "\u20b911.93 Cr",
         "Lot": "1600",
@@ -906,7 +1028,7 @@
         "Close": "3-Apr",
         "BoA Dt": "4-Apr",
         "Listing": "8-Apr",
-        "GMP Updated": "4-Apr 17:28",
+        "GMP Updated": "5-Apr 10:56",
         "Sub2": ""
     },
     {
@@ -916,12 +1038,20 @@
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024",
+                    "IPO Price": "81.00",
+                    "GMP": "\u20b913",
+                    "Sub2 Sauda Rate": "15800",
+                    "Estimated Listing Price": "\u20b994 (16.05%)",
+                    "Last Updated": "5-Apr-2024 11:53"
+                },
+                {
                     "GMP Date": "04-04-2024Allotment",
                     "IPO Price": "81.00",
-                    "GMP": "\u20b918",
-                    "Sub2 Sauda Rate": "21900",
-                    "Estimated Listing Price": "\u20b999 (22.22%)",
-                    "Last Updated": "4-Apr-2024 18:30"
+                    "GMP": "\u20b912",
+                    "Sub2 Sauda Rate": "14600",
+                    "Estimated Listing Price": "\u20b993 (14.81%)",
+                    "Last Updated": "5-Apr-2024 0:23"
                 },
                 {
                     "GMP Date": "03-04-2024Close",
@@ -1067,31 +1197,39 @@
             ]
         ],
         "Price": "81",
-        "GMP(\u00e2\u0082\u00b9)": "18",
-        "Est Listing": "99 (22.22%)",
-        "Fire Rating": 4,
+        "GMP(\u00e2\u0082\u00b9)": "13",
+        "Est Listing": "94 (16.05%)",
+        "Fire Rating": 3,
         "IPO Size": "\u20b953.15 Cr",
         "Lot": "1600",
         "Open": "27-Mar",
         "Close": "3-Apr",
         "BoA Dt": "4-Apr",
         "Listing": "8-Apr",
-        "GMP Updated": "4-Apr 17:30",
+        "GMP Updated": "5-Apr 10:53",
         "Sub2": ""
     },
     {
         "IPO": "Radiowalla NSE SME",
-        "Status": "Close (Sub:307.54x)",
+        "Status": "[email\u00a0protected](58.09%)",
         "Link": "/gmp/radiowalla-sme-ipo-gmp/811/",
         "Data": [
             [
+                {
+                    "GMP Date": "05-04-2024Listing",
+                    "IPO Price": "76.00",
+                    "GMP": "\u20b938",
+                    "Sub2 Sauda Rate": "46200",
+                    "Estimated Listing Price": "\u20b9114 (50%)",
+                    "Last Updated": "5-Apr-2024 10:27"
+                },
                 {
                     "GMP Date": "04-04-2024",
                     "IPO Price": "76.00",
                     "GMP": "\u20b938",
                     "Sub2 Sauda Rate": "46200",
                     "Estimated Listing Price": "\u20b9114 (50%)",
-                    "Last Updated": "4-Apr-2024 18:25"
+                    "Last Updated": "5-Apr-2024 0:31"
                 },
                 {
                     "GMP Date": "03-04-2024Allotment",
@@ -1246,22 +1384,30 @@
         "Close": "2-Apr",
         "BoA Dt": "3-Apr",
         "Listing": "5-Apr",
-        "GMP Updated": "4-Apr 17:25",
+        "GMP Updated": "5-Apr 9:27",
         "Sub2": ""
     },
     {
         "IPO": "TAC Infosec NSE SME",
-        "Status": "Close (Sub:422.03x)",
+        "Status": "[email\u00a0protected](173.58%)",
         "Link": "/gmp/tac-infosec-sme-ipo-gmp/812/",
         "Data": [
             [
                 {
+                    "GMP Date": "05-04-2024Listing",
+                    "IPO Price": "106.00",
+                    "GMP": "\u20b9113",
+                    "Sub2 Sauda Rate": "103100",
+                    "Estimated Listing Price": "\u20b9219 (106.6%)",
+                    "Last Updated": "5-Apr-2024 10:31"
+                },
+                {
                     "GMP Date": "04-04-2024",
                     "IPO Price": "106.00",
-                    "GMP": "\u20b9110",
-                    "Sub2 Sauda Rate": "100300",
-                    "Estimated Listing Price": "\u20b9216 (103.77%)",
-                    "Last Updated": "4-Apr-2024 18:24"
+                    "GMP": "\u20b9113",
+                    "Sub2 Sauda Rate": "103100",
+                    "Estimated Listing Price": "\u20b9219 (106.6%)",
+                    "Last Updated": "5-Apr-2024 0:30"
                 },
                 {
                     "GMP Date": "03-04-2024Allotment",
@@ -1407,8 +1553,8 @@
             ]
         ],
         "Price": "106",
-        "GMP(\u00e2\u0082\u00b9)": "110",
-        "Est Listing": "216 (103.77%)",
+        "GMP(\u00e2\u0082\u00b9)": "113",
+        "Est Listing": "219 (106.60%)",
         "Fire Rating": 5,
         "IPO Size": "\u20b929.99 Cr",
         "Lot": "1200",
@@ -1416,7 +1562,7 @@
         "Close": "2-Apr",
         "BoA Dt": "3-Apr",
         "Listing": "5-Apr",
-        "GMP Updated": "4-Apr 17:24",
+        "GMP Updated": "5-Apr 9:31",
         "Sub2": ""
     },
     {
@@ -7067,216 +7213,6 @@
         "BoA Dt": "5-Mar",
         "Listing": "7-Mar",
         "GMP Updated": "7-Mar 8:31",
-        "Sub2": ""
-    },
-    {
-        "IPO": "Bharat Highways InvIT IPO",
-        "Status": "[email\u00a0protected](1.10%)",
-        "Link": "/gmp/bharat-highways-invit-ipo-gmp/784/",
-        "Data": [
-            [
-                {
-                    "GMP Date": "12-03-2024Listing",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "12-Mar-2024 10:26"
-                },
-                {
-                    "GMP Date": "11-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "11-Mar-2024 23:26"
-                },
-                {
-                    "GMP Date": "10-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "10-Mar-2024 23:29"
-                },
-                {
-                    "GMP Date": "09-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "9-Mar-2024 23:26"
-                },
-                {
-                    "GMP Date": "08-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "8-Mar-2024 23:32"
-                },
-                {
-                    "GMP Date": "07-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "7-Mar-2024 23:28"
-                },
-                {
-                    "GMP Date": "06-03-2024Allotment",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "6-Mar-2024 23:30"
-                },
-                {
-                    "GMP Date": "05-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "5-Mar-2024 23:32"
-                },
-                {
-                    "GMP Date": "04-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "4-Mar-2024 23:26"
-                },
-                {
-                    "GMP Date": "03-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "3-Mar-2024 23:27"
-                },
-                {
-                    "GMP Date": "02-03-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "2-Mar-2024 23:25"
-                },
-                {
-                    "GMP Date": "01-03-2024Close",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b92",
-                    "Sub2 Sauda Rate": "200/2800",
-                    "Estimated Listing Price": "\u20b9102 (2%)",
-                    "Last Updated": "1-Mar-2024 23:27"
-                },
-                {
-                    "GMP Date": "29-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9100 (0%)",
-                    "Last Updated": "29-Feb-2024 23:24"
-                },
-                {
-                    "GMP Date": "28-02-2024Open",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9100 (0%)",
-                    "Last Updated": "28-Feb-2024 23:32"
-                },
-                {
-                    "GMP Date": "27-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9100 (0%)",
-                    "Last Updated": "27-Feb-2024 23:33"
-                },
-                {
-                    "GMP Date": "26-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "26-Feb-2024 6:03"
-                },
-                {
-                    "GMP Date": "25-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "25-Feb-2024 6:03"
-                },
-                {
-                    "GMP Date": "24-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "24-Feb-2024 6:03"
-                },
-                {
-                    "GMP Date": "23-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "23-Feb-2024 6:03"
-                },
-                {
-                    "GMP Date": "22-02-2024",
-                    "IPO Price": "100.00",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "22-Feb-2024 6:03"
-                },
-                {
-                    "GMP Date": "21-02-2024",
-                    "IPO Price": "",
-                    "GMP": "\u20b90",
-                    "Sub2 Sauda Rate": "--",
-                    "Estimated Listing Price": "\u20b9 (0%)",
-                    "Last Updated": "21-Feb-2024 21:33"
-                }
-            ],
-            [
-                {
-                    "IPO Open Date": "28-02-2024",
-                    "IPO Close Date": "01-03-2024",
-                    "Basis of AllotmentFinalisation Date*": "06-03-2024",
-                    "Refunds Initiation*": "07-03-2024",
-                    "Credit of Sharesto Demat Account*": "07-03-2024",
-                    "IPO Listing Date*": "12-03-2024"
-                }
-            ],
-            [
-                {
-                    "period": [],
-                    "Total Assets": [],
-                    "Total Revenue": [],
-                    "PAT": [],
-                    "Net worth": [],
-                    "Reserve & Surplus": [],
-                    "Total Borrowings": []
-                }
-            ]
-        ],
-        "Price": "100",
-        "GMP(\u00e2\u0082\u00b9)": "2",
-        "Est Listing": "102 (2.00%)",
-        "Fire Rating": 1,
-        "IPO Size": "\u20b92500.00 Cr",
-        "Lot": "150",
-        "Open": "28-Feb",
-        "Close": "1-Mar",
-        "BoA Dt": "6-Mar",
-        "Listing": "12-Mar",
-        "GMP Updated": "12-Mar 9:26",
         "Sub2": ""
     }
 ]
