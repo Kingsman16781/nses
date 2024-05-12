@@ -17,7 +17,8 @@
     "interstitial_1_search_admob1": "ca-app-pub-3940256099942544/1033173712",
     "interstitial_test": "ca-app-pub-3940256099942544/1033173712",
     "interstitial_1_search_admob_interval": 4,
-    
+
+    "google_ad": true,
     "fb_ad": true,
     "interstitial_1_fb": "1843508509384134_1844063125995339close",
     "interstitial_2_fb": "1843508509384134_1844063125995339close",
